@@ -1,0 +1,6 @@
+{
+  "name": "Portal Prisma - Notícias & Artigos de Alta Performance",
+  "description": "Portal editorial inteligente de notícias e artigos com SEO otimizado, ticker em tempo real, automação editorial por IA e métricas de tráfego.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
